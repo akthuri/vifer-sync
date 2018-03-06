@@ -1,0 +1,19 @@
+{
+  "name": "sync",
+  "version": "1.0.0",
+  "description": "prueba de conectividad a sql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Trujillo",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/feathers": "^3.1.3",
+    "@feathersjs/rest-client": "^1.3.3",
+    "async": "^2.6.0",
+    "axios": "^0.18.0",
+    "moment": "^2.21.0",
+    "tedious": "^2.3.1"
+  }
+}
